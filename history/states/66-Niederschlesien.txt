@@ -12,10 +12,11 @@ state = {
 
 	history = {
 
-		owner = GER
+	    owner = AUS
 		add_core_of = GER
 		add_core_of = SIL
-		add_core_of = PRE
+		add_core_of = AUS
+		add_core_of = POL
 
 		victory_points = {
 			9570 10 # Breslau

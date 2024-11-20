@@ -14,3 +14,4 @@ supported_version="1.15.0"
 
 replace_path = "common/bookmarks"
 replace_path = "history/states"
+replace_path = "history/units"

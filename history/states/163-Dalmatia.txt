@@ -7,7 +7,7 @@ state = {
 	
 	history = {
 		owner = LBV
-		add_core_of = LBV
+		add_core_of = CRO
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}
